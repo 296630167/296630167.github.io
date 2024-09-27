@@ -4,6 +4,13 @@
 您在使用我们的游戏及服务时我们可能获取的您的信息：
 获取传感器列表：com.unity3d.player,优量汇,yaq.pro.getVresult,kassdk-ad,advance-kslib,com.kwad.components
 获取传感器信息：kassdk-ad,advance-kslib,com.kwad.components
+Unity引擎获取Android ID
+TopOn获取IMSI、设备传感器信息、应用安装列表
+优量汇SDK（广点通SDK）获取Android ID、IP、应用安装列表
+快手SDK获取MAC地址、Android ID、应用安装列表、IP
+穿山甲SDK获取Android ID、MAC地址、Android ID、应用安装列表
+优量汇SDK获取IP、应用安装列表
+百度SDK获取IMEI、应用安装列表
 a)设备或网络信息：设备或网络信息：为保障您正常使用我们的游戏及服务，确保游戏及服务功能的正常运行，优化游戏产品体验，保障您的账号安全，我们可能会收集您的设备ID、设备名称、设备类型等信息，用于为游戏的自动存档和自动读档使用。
 
 b) 获取设备传感器：游戏带有横屏和竖屏切换功能，为了确保您的游戏体验，我们可能会获取重力传感器来完成横屏与竖屏之间的转换。
